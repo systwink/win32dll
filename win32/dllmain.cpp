@@ -1,15 +1,6 @@
-// dllmain.cpp : Defines the entry point for the DLL application.
+
 #include "pch.h"
-// memdump.cpp - writes a full-memory minidump of the current process to a folder.
-// Build (x64 Native Tools Command Prompt):
-//   cl /LD /EHsc memdump.cpp /link dbghelp.lib /OUT:memdump.dll
-// Match the bitness (x86/x64) of the program you're dumping.
 
-
-// memdump.cpp - writes a full-memory minidump of the current process to a folder.
-// Build (x64 Native Tools Command Prompt):
-//   cl /LD /EHsc memdump.cpp /link dbghelp.lib /OUT:memdump.dll
-// Match the bitness (x86/x64) of the program you're dumping.
 
 #include <windows.h>
 #include <dbghelp.h>
