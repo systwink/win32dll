@@ -1,0 +1,4 @@
+﻿  dllmain.cpp
+  LINK : C:\Users\tommybraasch\source\repos\win32\ARM64\Debug\win32.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\tommybraasch\source\repos\win32\ARM64\Debug\win32.lib and object C:\Users\tommybraasch\source\repos\win32\ARM64\Debug\win32.exp
+  win32.vcxproj -> C:\Users\tommybraasch\source\repos\win32\ARM64\Debug\win32.dll

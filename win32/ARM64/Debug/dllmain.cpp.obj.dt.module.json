@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ARM64\\Debug\\dllmain.obj",
+            "outputs": [
+                "ARM64\\Debug\\dllmain.cpp.obj.dt.module.json",
+                "ARM64\\Debug\\dllmain.cpp.obj.dt.d.json",
+                "ARM64\\Debug\\win32.pch"
+            ],
+            "requires": []
+        }
+    ]
+}
